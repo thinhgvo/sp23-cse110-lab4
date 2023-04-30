@@ -58,7 +58,6 @@ D: let favoriteTeacher = student['Favorite Teacher'].name;
 E: let index = student.courseLoad[0];
 ```
 
-
 ## Basic Operators & Type Conversion
 
 ### Question 13:
