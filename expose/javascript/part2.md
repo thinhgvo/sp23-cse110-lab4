@@ -44,12 +44,26 @@ After the *discountPrices* function is called, it will return the `discounted` a
 
 ## Data Types
 
-### [Question 12](part2-question12.js)
+### Question 12:
+
+```
+A: let studentName = student.name;
+
+B: let year = student['Grad Year'];
+
+C: student.greeting();
+
+D: let favoriteTeacher = student['Favorite Teacher'].name;
+
+E: let index = student.courseLoad[0];
+```
+
 
 ## Basic Operators & Type Conversion
 
 ### Question 13:
 
+```
 A: '3' + 2 = '32' because integers map to their exact string representation.
 
 B: '3' - 2 = 1 because string '3' maps to integer 3.
@@ -65,9 +79,11 @@ F: false + null = 0 because both false and null map to 0.
 G: '3' + undefined = '3 undefined' because undefined maps to a string 'undefined'
 
 H. '3' - undefined = NaN because undefined is map to an illegal number. Therefore, the output is NaN.
+```
 
 ### Question 14:
 
+```
 A: '2' > 1 = true because string '2' maps to integer 2.
 
 B: '2' < '12' = false because the first character '2' is greater than the first character of '12'.
@@ -79,6 +95,7 @@ D: 2 === '2' = false because the two items are different types.
 E: true == 2 = false because true map to 1. 1 is not the same as 2. Therefore, it is false.
 
 F: true === Boolean(2) true because converting anything other than value 0, null, undefined, NaN, " " is always true. Therefore they are the same.
+```
 
 ### Question 15:
 
