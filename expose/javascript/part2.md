@@ -105,7 +105,7 @@ F: true === Boolean(2) true because converting anything other than value 0, null
 
 ## Loops
 
-### [Question 16](part2-question16.js)
+### [Question 16:](part2-question16.js)
 
 ## Functions
 
@@ -115,7 +115,7 @@ In the program, line 17 called the function `modifyArray` to modify the array [1
 
 ## setInterval(), setTimeout(), clearTimeout()
 
-### [Question 18](part2-question18.js)
+### [Question 18:](part2-question18.js)
 
 ### Question 19:
 
